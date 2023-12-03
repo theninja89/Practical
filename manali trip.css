@@ -1,0 +1,17 @@
+ *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    .container{
+        background-color: aqua;
+        padding: 15px;
+        margin: auto;
+    }
+    .container h2, p{
+        text-align: center;
+    }
+    img {opacity: 0.5;}
+    img {height: 325px;
+         width: 772px;
+         }
